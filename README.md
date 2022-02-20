@@ -10,15 +10,15 @@
   * [高压油管的压力控制方法研究](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2019%20CUMCM)
 * 2019年MCM - **Award: Successful Participants🥉**
   * [Solving the Problem of Planning Through Expectation Distribution](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2019%20MCM)
-* 2020年HiMCM - "Award: Finalist🥇**
+* 2020年HiMCM - **Award: Finalist🥇**
   * [Ranking Algorithm of Summer Job Recommendation](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2020%20HiMCM)
-* 2020年MCM - "Award: Honorable Mention🥈**
+* 2020年MCM - **Award: Honorable Mention🥈**
   * [Build a Successful Product on the Online Shopping Platform](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2020%20MCM)
-* 2021年HiMCM - "Award: Finalist🥇**
+* 2021年HiMCM - **Award: Finalist🥇**
   * [OFF-THE-GRID A New Choice of Life](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2021%20HiMCM)
-* 2021年IMMC中华赛 - "Award: Outstanding🥇**
+* 2021年IMMC中华赛 - **Award: Outstanding🥇**
   * [The First Home on the Moon](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2021%20IMMC%20China)
-* 2021年IMMC国际赛 - "Award: Finalist🥇**
+* 2021年IMMC国际赛 - **Award: Finalist🥇**
   * [Self-breakthrough is the Greatest](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2021%20IMMC%20International)
-* 2020年MCM - "Award: Finalist🥇**
+* 2020年MCM - **Award: Finalist🥇**
   * [No Where to Hide Find Vespa Mandarinia with Data](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2021%20MCM)
