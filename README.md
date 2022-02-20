@@ -1,1 +1,1 @@
-# Personal Mathematical Modeling Competition & Project Summary
+## Personal Mathematical Modeling Competition & Project Summary
