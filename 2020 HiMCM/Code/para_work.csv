@@ -1,0 +1,18 @@
+features,weight,Waiter,Cashier,Lifeguarding,Librarian,Salesman,Hamal,Cleaner,Courier,Online Tutoring,Offline Tutoring,Researcher,Programmer,Data Analyst,Photographer,Post Production,Illustrator,Instrument Teaching,Craftsmen,Subtitle Translation,Translator,Reporter,Editor,Accounting,Consulting ,Planner,YouTuber
+Grade,1,1,1,3,1,1,2,1,1,3,3,3,3,3,2,2,2,2,1,1,2,2,2,1,3,3,1
+Allowance,1,1,1,1,1,1,1,1,1,1,1,2,2,3,3,2,1,3,2,1,1,1,1,1,2,2,3
+rational,1,1,1,1,1,1,1,1,1,1,1,2,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1
+emotional,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Distance,1,1,1,2,2,1,1,1,1,1,2,2,3,3,2,1,1,3,1,1,3,2,1,1,3,3,1
+Skill Type,1,1,1,4,2,1,1,1,1,3,3,4,5,3,4,4,4,4,3,3,4,2,2,2,4,2,3
+Research Type,1,1,1,1,1,1,1,1,1,1,1,5,4,3,1,1,1,1,1,1,1,1,1,1,3,2,2
+Art Type,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,3,5,3,3,1,1,1,1,1,1,1,2
+Social Type,1,3,2,1,1,4,1,1,1,4,4,1,1,3,3,3,2,3,1,2,4,4,3,1,4,3,2
+Management Type,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,5,5
+Conventional Type,3,4,4,3,2,4,5,5,4,2,3,1,1,1,2,2,2,2,2,2,3,3,3,3,3,3,1
+extraversion,1,3,1,1,1,4,1,1,1,1,1,1,1,1,3,1,1,1,1,1,3,3,1,1,3,1,1
+introverted,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Empirical,1,1,1,4,2,3,1,1,2,2,2,5,4,3,4,3,3,3,4,2,3,3,3,2,4,4,3
+Work Hour,1,3,3,3,3,3,3,1,4,1,1,5,5,5,2,2,2,1,3,2,3,3,2,3,4,3,3
+PA or Sedentary,3,2,2,2,2,2,5,1,2,3,3,5,5,4,2,5,5,4,4,5,2,2,5,5,1,4,3
+Salary,-1,1,1,2,1,2,3,1,2,4,4,3,5,3,2,3,3,4,3,1,4,2,1,2,3,2,1
