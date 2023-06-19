@@ -40,7 +40,11 @@
   * **📑论文**：[Self-breakthrough is the Greatest](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2021%20IMMC%20International)
   * **❓问题**：综合评价指标，竞技系统排名算法
   * **⭐关键词**：Elo Algorithm, Ranking Score Model, Progress Model, Comprehensive Model
-* 2020年MCM - **Award: Finalist🥇**
+* 2021年MCM - **Award: Finalist🥇**
   * **📑论文**：[No Where to Hide Find Vespa Mandarinia with Data](https://github.com/ArtificialIntelligenceBirdMan/MathematicalModeling/tree/main/2021%20MCM)
   * **❓问题**：数据挖掘，图像识别，分类问题
   * **⭐关键词**：Time Series Analysis, Logistic Regression, Bayesian Probability, LeNet CNN, Hypothesis Testing, Weighted Distance Measure
+* 2023年MCM - **Award: Finalist🥇**
+  * **📑论文**：[The Sparks When Flipping the Wordle](https://github.com/ZPZhou-lab/MathematicalModeling/tree/main/2023%20MCM)
+  * **❓问题**：数据挖掘，分布拟合，趋势预测
+  * **⭐关键词**： Breakpoint Detection, Time Series Analysis, Multinomial Logits Model, Rolling Prediction, Bootstrap, Shapley Value
